@@ -1,12 +1,10 @@
-description: High-performance wireless transceiver, ideal for remote control, data
-  links, and sensor networks.
+description: Si4463-based transceiver with SPI interface
 github_branch: ISM01A
 github_branches:
 - ISM01A
-github_description: High-performance wireless transceiver, ideal for remote control,
-  data links, and sensor networks.
-github_repo: ISM01
-github_url: https://github.com/mlab-modules/ISM01
+github_description: Si4463-based transceiver with SPI interface
+github_repo: ISM03
+github_url: https://github.com/mlab-modules/ISM03
 homepage: true
 image_title: doc/gen/img/ISM01-top.png
 images:
@@ -27,23 +25,6 @@ mark: 80
 mod_ibom: hw/cam_profi/ISM01-ibom.html
 mod_scheme: doc/gen/ISM01-schematic.pdf
 status: 2
-tags:
-- sik
-- datalink
-- radio
-- communication
-- mavlink
-- mlab
-- mlab-module
-- kicad
-- kicad-pcb
-- kicad-project
-- mlab-kicad
-- pcb
-- ezradiopro
-- si4463
-- mlab-rf
-- siliconlabs
-- comm-rf
-title: ISM01
-updated: '2024-07-12T20:28:28.477061+00:00'
+tags: []
+title: ISM03
+updated: '2024-07-12T20:30:29.270142+00:00'
