@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.7-7.0.7~ubuntu23.04.1"
+      "Version": "7.0.11+1"
     },
-    "CreationDate": "2023-09-11T00:44:02+00:00"
+    "CreationDate": "2024-07-12T23:58:32+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ISM01",
-      "GUID": "49534d30-312e-46b6-9963-61645f706362",
+      "Name": "ISM03",
+      "GUID": "49534d30-332e-46b6-9963-61645f706362",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.3,
@@ -34,42 +34,42 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ISM01-Edge_Cuts.gbr",
+      "Path": "ISM03-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ISM01-F_Cu.gbr",
+      "Path": "ISM03-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ISM01-B_Cu.gbr",
+      "Path": "ISM03-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ISM01-F_Mask.gbr",
+      "Path": "ISM03-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ISM01-B_Mask.gbr",
+      "Path": "ISM03-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ISM01-F_Silkscreen.gbr",
+      "Path": "ISM03-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ISM01-B_Silkscreen.gbr",
+      "Path": "ISM03-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ISM01-B_Paste.gbr",
+      "Path": "ISM03-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
