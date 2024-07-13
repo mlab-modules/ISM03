@@ -1,11 +1,11 @@
 # PCB
 
-Board size: 60.45x40.13 mm (2.38x1.58 inches)
+Board size: 50.29x40.13 mm (1.98x1.58 inches)
 
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
 - Material: FR4
-- Finish: HAL
+- Finish: None
 - Layers: 2
 - Copper thickness: 35 µm
 
@@ -17,6 +17,19 @@ Silk screen: TOP / BOTTOM
 
 - Color: White
 
+
+Stackup:
+
+| Name                 | Type                 | Color            | Thickness | Material        | Epsilon_r | Loss tangent |
+|----------------------|----------------------|------------------|-----------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |                  |           |                 |           |              |
+| F.Mask               | Top Solder Mask      |                  |        10 |                 |           |              |
+| F.Cu                 | copper               |                  |        35 |                 |           |              |
+| dielectric 1         | core                 |                  |      1510 | FR4             |       4.5 |        0.020 |
+| B.Cu                 | copper               |                  |        35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |                  |        10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |                  |           |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |                  |           |                 |           |              |
 
 # Important sizes
 
@@ -37,7 +50,7 @@ Via: 0.8/0.4 mm (31/16 mils)
 - By design rules: 0.4/0.3 mm (16/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 129 (thru: 129 buried/blind: 0 micro: 0)
+- Total: 80 (thru: 80 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.1 mm (4 mils)
 
@@ -51,8 +64,8 @@ Eurocircuits class: 6D
 
 Components count: (SMD/THT)
 
-- Top: 1/21 (SMD + THT)
-- Bottom: 48/0 (SMD)
+- Top: 0/22 (THT)
+- Bottom: 53/0 (SMD)
 
 Defined tracks:
 
@@ -60,30 +73,27 @@ Defined tracks:
 - 0.3 mm (12 mils)
 - 0.4 mm (16 mils)
 - 0.5 mm (20 mils)
-- 0.5 mm (20 mils)
 - 0.6 mm (24 mils)
 - 0.8 mm (31 mils)
 - 0.86 mm (34 mils)
 
 Used tracks:
 
-- 0.2 mm (8 mils) (194) defined: yes
-- 0.3 mm (12 mils) (16) defined: yes
-- 0.5 mm (20 mils) (175) defined: yes
+- 0.2 mm (8 mils) (4) defined: yes
+- 0.5 mm (20 mils) (6) defined: yes
 - 0.86 mm (34 mils) (48) defined: yes
 
 Defined vias:
 
-- 0.8/0.4 mm (31/16 mils)
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 129, Aspect: 2.0 A) defined: yes
+- 0.8/0.4 mm (31/16 mils) (Count: 80, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
 - 0.2 mm (8 mils) (4)
-- 0.89 mm (35 mils) (38)
+- 0.89 mm (35 mils) (40)
 - 1.5 mm (59 mils) (2)
 - 1.7 mm (67 mils) (8)
 - 2.7 mm (106 mils) (2)
@@ -95,8 +105,8 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.3 mm (12 mils) (4)
-- 0.5 mm (20 mils) (129)
-- 1.0 mm (39 mils) (38)
+- 0.5 mm (20 mils) (80)
+- 1.0 mm (39 mils) (40)
 - 1.6 mm (63 mils) (2)
 - 1.8 mm (71 mils) (8)
 - 2.7 mm (106 mils) (2)
@@ -111,9 +121,7 @@ The stencil thickness is  0.12 mm.
 
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
-| Top    |               2 |       2.01 |      0.01 |
-| Bottom |             124 |     145.65 |      0.72 |
-| Total  |             126 |     147.66 |      0.73 |
+| Total  |             134 |     170.23 |      0.85 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
