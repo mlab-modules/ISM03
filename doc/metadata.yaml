@@ -6,7 +6,7 @@ github_description: Si4463-based transceiver with SPI interface
 github_repo: ISM03
 github_url: https://github.com/mlab-modules/ISM03
 homepage: true
-image_title: doc/gen/img/ISM01-top.png
+image_title: doc/gen/img/ISM03-top.png
 images:
 - doc/gen/img/ISM03-top.png
 - doc/gen/img/ISM03-bottom.png
@@ -16,10 +16,10 @@ images:
 - doc/gen/img/ISM03-bottom.svg
 - doc/gen/img/ISM03-top.svg
 issues: 5
-mark: 80
+mark: 30
 mod_ibom: hw/cam_profi/ISM03-ibom.html
 mod_scheme: doc/gen/ISM03-schematic.pdf
-status: 2
+status: 1
 tags: []
 title: ISM03
 updated: '2024-07-13T00:00:08.013004+00:00'
