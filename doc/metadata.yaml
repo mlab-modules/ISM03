@@ -1,5 +1,5 @@
 description: Si4463-based transceiver with SPI interface
-github_branch: ISM01A
+github_branch: ISM03A
 github_branches:
 - ISM01A
 github_description: Si4463-based transceiver with SPI interface
@@ -22,4 +22,4 @@ mod_scheme: doc/gen/ISM03-schematic.pdf
 status: 1
 tags: []
 title: ISM03
-updated: '2024-07-14T13:29:37.810837+00:00'
+updated: '2024-07-14T13:33:08.392470+00:00'
