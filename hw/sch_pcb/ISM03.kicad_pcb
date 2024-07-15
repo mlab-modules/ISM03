@@ -12816,7 +12816,7 @@
 			)
 		)
 		(property "UST_ID" "5c70984812875079b91f8ba2"
-			(at 242.505236 -56.506858 360)
+			(at 242.505236 -56.506858 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c21bb8e1-0c3d-4c52-b277-a6f6c2588d59")
@@ -12982,7 +12982,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 0 1.679999 360)
+			(at 0 1.679999 0)
 			(layer "B.SilkS")
 			(uuid "2b4f0f0a-2ca4-4422-880f-2b2609f0ac81")
 			(effects
@@ -12994,7 +12994,7 @@
 			)
 		)
 		(property "Value" "9.1pF"
-			(at 0 -1.679999 360)
+			(at 0 -1.679999 0)
 			(layer "B.Fab")
 			(uuid "1d691779-3627-4d9e-8152-46df7f6ea668")
 			(effects
@@ -13006,7 +13006,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fe3280df-0d14-43ef-b6bd-f6fd3ccd80b8")
@@ -13018,7 +13018,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d2d5013-948d-4134-b7c2-5c4c947e3ee8")
@@ -13030,7 +13030,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4ef5888-15a7-4f0b-9693-cc8c1eb6afb2")
@@ -13160,7 +13160,7 @@
 			(uuid "984f9799-f593-454d-9943-f96e62ab1d4b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "26b5bb07-0871-4c29-b212-63fc92dd85c0")
 			(effects
@@ -13660,7 +13660,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 1.679999 360)
+			(at 0 1.679999 0)
 			(layer "B.SilkS")
 			(uuid "48a24dde-74d6-4d8a-b85a-c94204b36e32")
 			(effects
@@ -13672,7 +13672,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 0 -1.679999 360)
+			(at 0 -1.679999 0)
 			(layer "B.Fab")
 			(uuid "225bfa49-67cb-423f-badf-0775c16a188f")
 			(effects
@@ -13684,7 +13684,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef8f8896-bd65-4d4b-9503-dfedc902190c")
@@ -13696,7 +13696,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "82557812-d409-408a-8cbf-cd9fbbd00da5")
@@ -13708,7 +13708,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "820bfa3b-884a-4ee3-a831-27ebe026a788")
@@ -13838,7 +13838,7 @@
 			(uuid "66f32601-6090-4bd3-ac83-2389050e33ab")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "4c4984ac-8e9c-481d-8101-4fdc95ada361")
 			(effects
@@ -15701,8 +15701,8 @@
 		(layer "Edge.Cuts")
 		(uuid "cb2b0870-74c0-4f34-97f3-77d0ec6eac3e")
 	)
-	(gr_text "P1.6"
-		(at 134.520047 91.030689 90)
+	(gr_text "LEDR"
+		(at 134.657 92.173 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b60ef")
 		(effects
@@ -15713,8 +15713,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "P1.5"
-		(at 137.060047 91.030689 90)
+	(gr_text "LEDG"
+		(at 142.277 92.173 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b60f1")
 		(effects
@@ -15725,8 +15725,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "P1.4"
-		(at 139.600047 91.030689 90)
+	(gr_text "SDN"
+		(at 144.817 92.172311 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b60f3")
 		(effects
@@ -15737,8 +15737,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "GP2"
-		(at 142.140047 91.030689 90)
+	(gr_text "GPIO2"
+		(at 137.197 92.173 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b60f5")
 		(effects
@@ -15749,8 +15749,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "GP3"
-		(at 144.680047 91.030689 90)
+	(gr_text "GPIO3"
+		(at 139.737 92.173 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b60f7")
 		(effects
@@ -15761,8 +15761,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "GND"
-		(at 135.155047 120.240689 90)
+	(gr_text "SDO"
+		(at 135.2666 101.4186 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6121")
 		(effects
@@ -15773,8 +15773,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "P0.6"
-		(at 137.695047 120.240689 90)
+	(gr_text "SCLK"
+		(at 136.1556 103.8062 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6123")
 		(effects
@@ -15786,7 +15786,7 @@
 		)
 	)
 	(gr_text "#IRQ"
-		(at 140.235047 120.240689 90)
+		(at 135.9778 106.3716 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6125")
 		(effects
@@ -15797,8 +15797,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "GP1"
-		(at 142.775047 120.240689 90)
+	(gr_text "GPIO1"
+		(at 136.943 111.4262 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6127")
 		(effects
@@ -15810,7 +15810,7 @@
 		)
 	)
 	(gr_text "RAMP"
-		(at 147.855047 109.445689 90)
+		(at 136.2572 114.1694 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b612b")
 		(effects
@@ -15821,8 +15821,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "GP0"
-		(at 145.315047 120.240689 90)
+	(gr_text "GPIO0"
+		(at 136.943 108.8354 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6215")
 		(effects
@@ -15833,43 +15833,8 @@
 			(justify right)
 		)
 	)
-	(gr_text "P1.4"
-		(at 154.205047 112.620689 90)
-		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-00005c1b621a")
-		(effects
-			(font
-				(size 1.3 1.3)
-				(thickness 0.3)
-			)
-			(justify right)
-		)
-	)
-	(gr_text "P1.5"
-		(at 151.665047 112.620689 90)
-		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-00005c1b621c")
-		(effects
-			(font
-				(size 1.3 1.3)
-				(thickness 0.3)
-			)
-			(justify right)
-		)
-	)
-	(gr_text "LED"
-		(at 152.808047 123.796689 0)
-		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-00005c1b6220")
-		(effects
-			(font
-				(size 1.3 1.3)
-				(thickness 0.3)
-			)
-		)
-	)
 	(gr_text "IN 5-10V"
-		(at 121.312047 98.650689 90)
+		(at 143.8772 118.335 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6236")
 		(effects
@@ -15880,7 +15845,7 @@
 		)
 	)
 	(gr_text "OUT 3V3"
-		(at 121.058047 111.604689 90)
+		(at 162.724 118.6144 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b652d")
 		(effects
@@ -15924,7 +15889,7 @@
 		)
 	)
 	(gr_text "2024"
-		(at 159.920047 90.522689 0)
+		(at 154.6976 111.7056 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b653f")
 		(effects
@@ -15935,7 +15900,7 @@
 		)
 	)
 	(gr_text "kaklik"
-		(at 159.920047 87.728689 0)
+		(at 154.6468 109.4704 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005c1b6541")
 		(effects
@@ -15954,6 +15919,54 @@
 				(size 1.5 1.5)
 				(thickness 0.3)
 			)
+		)
+	)
+	(gr_text "LEDG"
+		(at 159.4982 91.3348 0)
+		(layer "F.SilkS")
+		(uuid "5d88dd67-c049-4430-9f0e-7529df16a966")
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.3)
+			)
+			(justify right)
+		)
+	)
+	(gr_text "LEDR"
+		(at 159.5744 87.1692 0)
+		(layer "F.SilkS")
+		(uuid "ac1d8d47-9b2d-4275-bdee-15fa87918fc4")
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.3)
+			)
+			(justify right)
+		)
+	)
+	(gr_text "SDI"
+		(at 135.1904 98.7516 0)
+		(layer "F.SilkS")
+		(uuid "af9b826e-0567-42b7-9b9c-a0314329648c")
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.3)
+			)
+			(justify right)
+		)
+	)
+	(gr_text "#SEL"
+		(at 132.244 92.4524 90)
+		(layer "F.SilkS")
+		(uuid "c406de11-d646-4e48-899d-8788ac8907ba")
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.3)
+			)
+			(justify right)
 		)
 	)
 	(dimension
