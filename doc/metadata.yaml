@@ -1,7 +1,7 @@
 description: Si4463-based transceiver with SPI interface
 github_branch: ISM03A
 github_branches:
-- ISM01A
+- ISM03A
 github_description: Si4463-based transceiver with SPI interface
 github_repo: ISM03
 github_url: https://github.com/mlab-modules/ISM03
