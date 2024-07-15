@@ -35,7 +35,7 @@ Stackup:
 
 Clearance: 0.2 mm (8 mils)
 
-Track width: 0.2 mm (8 mils)
+Track width: 0.25 mm (10 mils)
 
 - By design rules: 0.2 mm (8 mils)
 
@@ -50,7 +50,7 @@ Via: 0.8/0.4 mm (31/16 mils)
 - By design rules: 0.4/0.3 mm (16/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 80 (thru: 80 buried/blind: 0 micro: 0)
+- Total: 66 (thru: 66 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.1 mm (4 mils)
 
@@ -64,12 +64,12 @@ Eurocircuits class: 6D
 
 Components count: (SMD/THT)
 
-- Top: 0/22 (THT)
-- Bottom: 53/0 (SMD)
+- Top: 0/21 (THT)
+- Bottom: 48/0 (SMD)
 
 Defined tracks:
 
-- 0.2 mm (8 mils)
+- 0.25 mm (10 mils)
 - 0.3 mm (12 mils)
 - 0.4 mm (16 mils)
 - 0.5 mm (20 mils)
@@ -79,21 +79,22 @@ Defined tracks:
 
 Used tracks:
 
-- 0.2 mm (8 mils) (4) defined: yes
-- 0.5 mm (20 mils) (6) defined: yes
-- 0.86 mm (34 mils) (48) defined: yes
+- 0.25 mm (10 mils) (67) defined: yes
+- 0.3 mm (12 mils) (9) defined: yes
+- 0.4 mm (16 mils) (26) defined: yes
+- 0.5 mm (20 mils) (94) defined: yes
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 80, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 66, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
 - 0.2 mm (8 mils) (4)
-- 0.89 mm (35 mils) (40)
+- 0.89 mm (35 mils) (38)
 - 1.5 mm (59 mils) (2)
 - 1.7 mm (67 mils) (8)
 - 2.7 mm (106 mils) (2)
@@ -105,8 +106,8 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.3 mm (12 mils) (4)
-- 0.5 mm (20 mils) (80)
-- 1.0 mm (39 mils) (40)
+- 0.5 mm (20 mils) (66)
+- 1.0 mm (39 mils) (38)
 - 1.6 mm (63 mils) (2)
 - 1.8 mm (71 mils) (8)
 - 2.7 mm (106 mils) (2)
@@ -121,7 +122,7 @@ The stencil thickness is  0.12 mm.
 
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
-| Total  |             134 |     170.23 |      0.85 |
+| Total  |             124 |     160.26 |      0.80 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
