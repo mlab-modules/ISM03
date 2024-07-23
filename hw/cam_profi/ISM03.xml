@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ISM03.kicad_sch</source>
-    <date>2024-07-15T18:44:25+0000</date>
+    <date>2024-07-23T21:21:25+0000</date>
     <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -11,7 +11,7 @@
         <rev>ISM01A</rev>
         <date>%F</date>
         <source>ISM03.kicad_sch</source>
-        <comment number="1" value="Sub-GHz ISM radio transceiver"/>
+        <comment number="1" value="Sub-GHz ISM radio transceiver\nwith SPI interface"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
