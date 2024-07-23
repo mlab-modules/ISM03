@@ -1,10 +1,12 @@
-# ISM03 - Si4463-based transceiver
+# ISM03 - Si4463-based transceiver with SPI interface
 
 The ISM03 is a high-performance wireless transceiver designed for long-distance data transmission. The module is based on the [Si4463 chip](https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics/device.si4463?tab=specs) from Silicon Labs. It has a wide frequency range and output power, it is ideal for applications that require robust and reliable wireless communication.
 
 ISM03 can operate on the open 433 or 868 MHz frequencies, which are popular in many applications.
 
 ![Top view on ISM03](doc/gen/img/ISM03-top.png)
+![Bottom view on ISM03](doc/gen/img/ISM03-bottom.png)
+
 
 ## Parameters
 

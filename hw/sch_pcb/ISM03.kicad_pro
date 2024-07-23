@@ -59,7 +59,23 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|167550000|100909913|06b7d445-175c-4483-9bd1-ddb4d38833d2|f18964be-bde7-4c11-a62d-d32673c01638",
+        "clearance|167550000|109090086|5ed6927f-563e-4bdb-9a95-33a2ba97fcd7|599f7943-40ff-4a4c-8292-565a7581ff22",
+        "clearance|167550000|111630086|5ed6927f-563e-4bdb-9a95-33a2ba97fcd7|74dd4ab1-614c-4398-98e0-46c63d84eea6",
+        "clearance|167550000|98369913|06b7d445-175c-4483-9bd1-ddb4d38833d2|a56478e3-338c-41f7-9a85-4b41477c02dd",
+        "clearance|170090000|100909913|06b7d445-175c-4483-9bd1-ddb4d38833d2|d1ac4c01-eea5-485c-b59a-ec273c9c839f",
+        "clearance|170090000|109090086|5ed6927f-563e-4bdb-9a95-33a2ba97fcd7|7f19b5fe-0462-4875-ae9c-896f1ff87b94",
+        "clearance|170090000|111630086|5ed6927f-563e-4bdb-9a95-33a2ba97fcd7|6d60aaf9-8367-48f7-a3c5-2ccf2a4a77ce",
+        "clearance|170090000|98369913|06b7d445-175c-4483-9bd1-ddb4d38833d2|fc9caa64-4d0e-4401-b348-ed823801c8a3",
+        "courtyards_overlap|145047401|104139001|00000000-0000-0000-0000-00005c1a2f92|00000000-0000-0000-0000-00005c1e6e6d",
+        "courtyards_overlap|157514399|105470874|00000000-0000-0000-0000-00005c1e6d29|00000000-0000-0000-0000-00005c1e6d95",
+        "courtyards_overlap|163457001|109780440|00000000-0000-0000-0000-00005c1e6ea3|00000000-0000-0000-0000-00005c1e6fe7",
+        "hole_clearance|162951154|87016000|68158fc4-c7cf-48e9-b056-6d1eca4b9459|d0fe2976-19f6-47fb-a416-23d1d964fb17",
+        "hole_clearance|162951154|87016000|f41e7c02-c1ec-47fb-a6f4-bc13df0d8154|d0fe2976-19f6-47fb-a416-23d1d964fb17",
+        "hole_clearance|162975454|91106200|20c76c46-61ba-4d06-a986-9c15dd3d03f6|d1d98b1b-a120-438a-b415-4f4ea22df582",
+        "hole_clearance|162975454|91106200|cc7bdd0b-85cc-401f-9ff9-da201a0b290c|d1d98b1b-a120-438a-b415-4f4ea22df582"
+      ],
       "meta": {
         "version": 2
       },
@@ -132,7 +148,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
