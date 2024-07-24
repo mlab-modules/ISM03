@@ -20,7 +20,7 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 19,"Inductor, small symbol",L_Small,L7,33nH,L_0805_2012Metric,1,~,5c70984412875079b91f8808
 20,"Inductor, small symbol",L_Small,L3,36nH,L_0805_2012Metric,1,~,66a10bc36fdfe6f54e2ebbf8
 21,"Inductor, small symbol",L_Small,L9,56nH,L_0805_2012Metric,1,~,5c70984812875079b91f8ba4
-22,"Inductor, small symbol",L_Small,L10,62nH,L_0805_2012Metric,1,~,64c92bf976c82a1d3b57944c
+22,"Inductor, small symbol",L_Small,L10,62nH,L_0805_2012Metric,1,~,66a127196fdfe6f54e2ebd35
 23,"Inductor, small symbol",L_Small,L8,220nH,L_0805_2012Metric,1,~,5c70984412875079b91f880d
 24,Inductor with ferrite core,L_Ferrite,L11,74279204,L_0805_2012Metric,1,~,6016f01e1287504e4aa85f2a
 25,"NPN transistor, base/emitter/collector",Q_NPN_BEC,Q1Q2,BC817,SOT-23,2,~,5c70984712875079b91f8aec

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ISM03.kicad_sch</source>
-    <date>2024-07-24T14:19:38+0000</date>
+    <date>2024-07-24T16:15:07+0000</date>
     <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -716,13 +716,13 @@
       <value>62nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">64c92bf976c82a1d3b57944c</field>
+        <field name="UST_ID">66a127196fdfe6f54e2ebd35</field>
         <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value="64c92bf976c82a1d3b57944c"/>
+      <property name="UST_ID" value="66a127196fdfe6f54e2ebd35"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
