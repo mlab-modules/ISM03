@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ISM03.kicad_sch</source>
-    <date>2024-07-23T21:21:25+0000</date>
+    <date>2024-07-24T14:19:38+0000</date>
     <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -82,13 +82,13 @@
       <value>10pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b2e</field>
+        <field name="UST_ID">5c70984712875079b91f8b30</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b2e"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b30"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -118,13 +118,13 @@
       <value>100pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b2e</field>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b2e"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -134,6 +134,24 @@
     </comp>
     <comp ref="C7">
       <value>12pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b31</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b31"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ISM03.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c00962c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>15pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
@@ -148,37 +166,19 @@
       <property name="ki_keywords" value="capacitor cap"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c00962c</tstamps>
-    </comp>
-    <comp ref="C9">
-      <value>15pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8b2f</field>
-        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b2f"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ISM03.kicad_sch"/>
-      <property name="ki_keywords" value="capacitor cap"/>
-      <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c009674</tstamps>
     </comp>
     <comp ref="C11">
       <value>9.1pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b2f</field>
+        <field name="UST_ID">611b60e71287500165a9732d</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b2f"/>
+      <property name="UST_ID" value="611b60e71287500165a9732d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -190,13 +190,13 @@
       <value>2.2pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b28</field>
+        <field name="UST_ID">5c70984712875079b91f8b27</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b28"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b27"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -208,13 +208,13 @@
       <value>4.7pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8ba2</field>
+        <field name="UST_ID">5c70984712875079b91f8b2c</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="UST_ID" value="5c70984812875079b91f8ba2"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b2c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -608,13 +608,13 @@
       <value>22nH</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f896b</field>
+        <field name="UST_ID">60be80ed1287500165e6c3bb</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value="5c70984512875079b91f896b"/>
+      <property name="UST_ID" value="60be80ed1287500165e6c3bb"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -626,13 +626,13 @@
       <value>36nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="UST_ID">66a10bc36fdfe6f54e2ebbf8</field>
         <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value="5c70984412875079b91f8806"/>
+      <property name="UST_ID" value="66a10bc36fdfe6f54e2ebbf8"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -644,13 +644,13 @@
       <value>30nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="UST_ID">611b69d31287500165a9742b</field>
         <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value="5c70984412875079b91f8806"/>
+      <property name="UST_ID" value="611b69d31287500165a9742b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -662,13 +662,13 @@
       <value>33nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID"/>
+        <field name="UST_ID">5c70984412875079b91f8808</field>
         <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8808"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -716,13 +716,13 @@
       <value>62nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8ba4</field>
+        <field name="UST_ID">64c92bf976c82a1d3b57944c</field>
         <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
-      <property name="UST_ID" value="5c70984812875079b91f8ba4"/>
+      <property name="UST_ID" value="64c92bf976c82a1d3b57944c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -864,13 +864,13 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897a</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897a"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -882,13 +882,13 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897a</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897a"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -918,13 +918,13 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f897a</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f897a"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -1173,11 +1173,13 @@
       <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias</footprint>
       <datasheet>https://www.silabs.com/documents/public/data-sheets/Si4464-63-61-60.pdf</datasheet>
       <fields>
+        <field name="UST_ID">5c70984612875079b91f8a0a</field>
         <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias</field>
         <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/Si4464-63-61-60.pdf</field>
         <field name="Description"/>
       </fields>
       <libsource lib="RF" part="Si4463" description="High-Performance, Low-Current Sub-GHz Transceiver, +20dBm, Major bands 142-1050 MHz, QFN-20"/>
+      <property name="UST_ID" value="5c70984612875079b91f8a0a"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM03.kicad_sch"/>
       <property name="ki_keywords" value="transceiver sub-ghz radio ism"/>
