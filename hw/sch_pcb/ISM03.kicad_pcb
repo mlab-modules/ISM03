@@ -11029,6 +11029,20 @@
 				)
 			)
 		)
+		(property "UST_ID" "5c70984612875079b91f8a0a"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1493a5c6-a673-43cc-ba45-5b07e8cb3dc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "QFN*1EP*4x4mm*P0.5mm*")
 		(path "/313b4ee5-6eb9-4337-8986-342d33a9bcdd")
 		(sheetname "Root")
@@ -11605,7 +11619,7 @@
 				)
 			)
 		)
-		(property "UST_ID" ""
+		(property "UST_ID" "5c70984412875079b91f8808"
 			(at 302.314094 204.464178 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12057,7 +12071,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984412875079b91f8806"
+		(property "UST_ID" "611b69d31287500165a9742b"
 			(at 309.934094 204.464178 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12283,7 +12297,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984812875079b91f8ba4"
+		(property "UST_ID" "64c92bf976c82a1d3b57944c"
 			(at 49.839358 244.600736 45)
 			(layer "B.Fab")
 			(hide yes)
@@ -12509,7 +12523,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b32"
+		(property "UST_ID" "5c70984712875079b91f8b31"
 			(at 52.099958 262.914136 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -12735,7 +12749,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b2f"
+		(property "UST_ID" "5c70984712875079b91f8b32"
 			(at 47.019958 257.834136 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12961,7 +12975,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984812875079b91f8ba2"
+		(property "UST_ID" "5c70984712875079b91f8b2c"
 			(at 242.505236 -56.506858 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -13187,7 +13201,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b2f"
+		(property "UST_ID" "611b60e71287500165a9732d"
 			(at 250.950736 -44.759358 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13413,7 +13427,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b2e"
+		(property "UST_ID" "5c70984712875079b91f8b30"
 			(at 55.909958 266.724136 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -13639,7 +13653,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b28"
+		(property "UST_ID" "5c70984712875079b91f8b27"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -13865,7 +13879,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b2e"
+		(property "UST_ID" "5c70984712875079b91f8b3b"
 			(at 255.395736 -64.444358 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -14091,7 +14105,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984412875079b91f8806"
+		(property "UST_ID" "66a10bc36fdfe6f54e2ebbf8"
 			(at 317.554094 204.464178 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -14317,7 +14331,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984512875079b91f896b"
+		(property "UST_ID" "60be80ed1287500165e6c3bb"
 			(at 324.920094 204.413378 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -14995,7 +15009,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984512875079b91f897a"
+		(property "UST_ID" "5c70984612875079b91f899f"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15221,7 +15235,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984512875079b91f897a"
+		(property "UST_ID" "5c70984612875079b91f899f"
 			(at 288.036 185.716 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15447,7 +15461,7 @@
 				)
 			)
 		)
-		(property "UST_ID" "5c70984512875079b91f897a"
+		(property "UST_ID" "5c70984612875079b91f899f"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
